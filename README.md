@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://cdn.discordapp.com/attachments/1234194621622652968/1252163585749024818/20240617_103031.png?ex=668303f6&is=6681b276&hm=b4654fd5976db28c81e43751315d000e8391b5ced75478763ed1322f41937488&)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
