@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **0nurx0@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/0nurx?theme=unicorn)](https://leetcode.com/0nurx/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
